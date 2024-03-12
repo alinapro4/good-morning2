@@ -1,0 +1,9 @@
+h1 {
+    font-size: 30px;
+    color: rgb(32, 183, 34);
+    margin-bottom: 25px;
+}
+
+.output {
+    color: red;
+}
